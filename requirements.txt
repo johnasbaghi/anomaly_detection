@@ -1,0 +1,3 @@
+orion-ml==0.7.1
+jupyterlab==4.4.3
+ipython
